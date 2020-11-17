@@ -1,3 +1,5 @@
 List of cheeses:
 Cheddar
 Brie
+Danish Blue
+Gorgonzola
